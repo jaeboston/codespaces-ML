@@ -1,3 +1,4 @@
 notebooks/data
+notebooks/logs
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
