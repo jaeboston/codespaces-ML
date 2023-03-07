@@ -9,3 +9,4 @@ tensorflow
 pydot
 pyyaml
 h5py
+tensorflow_datasets
